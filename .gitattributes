@@ -1,0 +1,18 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Standard patterns
+*.js text
+*.ts text
+*.tsx text
+*.html text
+*.css text
+*.json text
+*.md text
+
+# Binary patterns
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
